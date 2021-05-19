@@ -1,0 +1,1 @@
+C:\Users\sandr\Documents\GitHub\Wargames-Bibloteket\WargamesGUI\WargamesGUI.UWP\WargamesGUI.UWP.csproj;x86
